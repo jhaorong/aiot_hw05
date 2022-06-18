@@ -22,11 +22,11 @@ pip install gunicorn  Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 
 ### step 3: add an heroku postgredb
 
-* register heroku account
-* go to dashboard
-* new an app
-* go to resource and add-on an Heroku postgredb
-
+* 註冊heroku帳號
+* 點擊dashboard並建立app
+![image](/static/step2_1.jpg)
+* 到resource頁面並將老師給的postgredb放入heroku
+![image](/static/step2_2.jpg)
 ### step 4: login to heroku pstgredb using HeidiSQL
 
 
