@@ -91,13 +91,11 @@ git remote add origin master https://github.com/jhaorong/aiot_hw05/blob/master/R
 
 ### step 10: Complete
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
-
-Sample link 2: 
-https://aiot0529.herokuapp.com/
-
-
-![success](./static/success.jpg)
+網頁連結:
+https://aiot0531hw5.herokuapp.com/noAI
+* Randoom
+![image](/static/step10_1.jpg)
+* AI
+![image](/static/step10_2.jpg)
 
 
