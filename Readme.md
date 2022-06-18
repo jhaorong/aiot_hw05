@@ -49,13 +49,14 @@ mydb="d8tqoiq8882cpn"
 ![image](/static/step5.jpg)
 
 ### step 6: setting db in app.py
-
+* 到app.py中設定HOST,DATABASE,USER,PASSWORD
+![image](/static/step6.jpg)
 
 ```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
+myserver ="ec2-34-230-153-41.compute-1.amazonaws.com"
+myuser="ncftmbglktshcr"
+mypassword="f28f7ce14e09cb7761e96b6c1bcc6e57270f86e6c36d05ee99795fc73b46adee"
+mydb="d8tqoiq8882cpn"
 
 ```
 ### step 7: testing locally by running python app.py
