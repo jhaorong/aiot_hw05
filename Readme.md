@@ -70,8 +70,10 @@ python app.py
     * AI
         ![image](/static/step7_2.jpg)
 ### step 8: deploy to github (new public github repositoy 不然看不到)
-
-delete .git and git remote add origin master github.com/xxxxx
+刪除.git並將做完的hw上傳至github
+```python
+git remote add origin master https://github.com/jhaorong/aiot_hw05/blob/master/Readme.md
+```
 
 
 ### step 9: Heroku deploy from github
