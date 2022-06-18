@@ -68,7 +68,7 @@ python app.py
     * Random
         ![image](/static/step7_1.jpg)
     * AI
-        ![image](/static/step7_2.jpg)
+        ![image](/static/step7-2.jpg)
 ### step 8: deploy to github (new public github repositoy 不然看不到)
 
 delete .git and git remote add origin master github.com/xxxxx
