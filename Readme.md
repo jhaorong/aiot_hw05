@@ -77,6 +77,17 @@ git remote add origin master https://github.com/jhaorong/aiot_hw05/blob/master/R
 
 
 ### step 9: Heroku deploy from github
+* 連結github帳號
+![image](/static/step9_1.jpg)
+* 點擊Enable Automatic Deploys
+![image](/static/step9_2.jpg)
+* 點擊Deploy branch
+![image](/static/step9_3.jpg)
+* 點選頁面右上角more可以查看log檔
+![image](/static/step9_4.jpg)
+* 點擊右上角open App開啟網頁
+![image](/static/step9_5.jpg)
+
 
 ### step 10: Complete
 
