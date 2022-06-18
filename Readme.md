@@ -14,7 +14,8 @@
 
 ### step 2 : install some package
 
-
+* 使用python的指令下載flask,Jinja2,psycopg2,sklearn,pandas,numpy等package
+* python指令如下
 ```python
 pip install gunicorn  Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 ```
