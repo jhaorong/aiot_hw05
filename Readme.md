@@ -45,7 +45,8 @@ mydb="d8tqoiq8882cpn"
 
 ```
 ### step 5: import postgredb (in db/postgre.db)
-
+* 在HeidiSQL中點選檔案並載入SQL檔案，將資料庫放入
+![image](/static/step5.jpg)
 
 ### step 6: setting db in app.py
 
